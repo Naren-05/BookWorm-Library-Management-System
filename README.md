@@ -1,6 +1,6 @@
 # BookWorm Library Management System
 
-BookWorm is a comprehensive library management system built using native Hibernate and Java (with JavaFX and CSS). It provides an intuitive interface and powerful features for both admins and users to manage books, users, and branches efficiently.
+BookWorm is a comprehensive library management system built using native Hibernate and Java (with JavaFX and CSS). It provides an intuitive interface and powerful features for both admin and users to manage books, users, and branches efficiently.
 
 ## Features
 
